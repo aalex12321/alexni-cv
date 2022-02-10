@@ -8,7 +8,7 @@ My research interests focus on data management and data science. In detail, I ex
 
 [Email](mailto:ni@db.is.i.nagoya-u.ac.jp)  / [LinkedIn](https://www.linkedin.com/in/tianjia-ni-2131141a0/) / [GitHub](https://github.com/aalex12321/)
 
-
+<br><br>
 
 ## Education
 
@@ -18,7 +18,9 @@ My research interests focus on data management and data science. In detail, I ex
 **Data Science Program** for Data Analysis<br>
 [North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
 
-## Publications and Conferences
+<br><br>
+
+## Publication and Conference
 **2022**<br>
 1. Approximate Query Processing with Error Guarantees. <br>
 * Tianjia Ni, Kento Sugiura, Yoshiharu Ishikawa, Kejing Lu. 
@@ -51,7 +53,14 @@ My research interests focus on data management and data science. In detail, I ex
 * 倪 天嘉，石川 佳治，杉浦 健人. 
 * 第19回情報科学技術フォーラム (FIT 2020) , 2C-2, 2020.
 
-## Languages
+<br><br>
+
+## Service
+**VLDB2020** Student Volunteer
+
+<br><br>
+
+## Language
 **Chinese**: Native <br>        
 **English**: 2nd language <br>
 **Japanese**: N1 <br>
