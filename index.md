@@ -18,7 +18,7 @@ My research interests focus on data management and data science. In detail, I ex
 [North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
 <br><br><br>
 
-## Publication and Conference
+## Conference
 **2022**<br>
 1. Approximate Query Processing with Error Guarantees. <br>
 * Tianjia Ni, Kento Sugiura, Yoshiharu Ishikawa, Kejing Lu. 
