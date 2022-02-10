@@ -47,7 +47,7 @@ My research interests focus on data management and data science. In detail, I ex
 **2020**<br>
 1. 近似的問合せを用いた効率的なデータベース処理. <br>
 * 倪 天嘉，石川 佳治，杉浦 健人. 
-* 東海関西データベースワークショップ (DBWS 2020) , 6-2,　2020．
+* 東海関西データベースワークショップ (DBWS 2020) , 6-2, 2020．
 
 2. 機械学習を用いた近似的問合せ処理. <br>
 * 倪 天嘉，石川 佳治，杉浦 健人. 
