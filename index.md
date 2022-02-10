@@ -52,5 +52,7 @@ My research interests focus on data management and data science. In detail, I ex
 * 第19回情報科学技術フォーラム (FIT 2020) , 2C-2, 2020.
 
 ## Languages
-**Chinese**: Native        **English**: 2nd language     **Japanese**: N1 
+**Chinese**: Native <br>        
+**English**: 2nd language <br>
+**Japanese**: N1 <br>
 <br><br>
