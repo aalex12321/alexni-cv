@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Tianjia Ni 
 
-You can use the [editor on GitHub](https://github.com/aalex12321/alexni-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Phd student in Nagoya University <br>
+My research interests focus on data management and data science. In detail, I explore the following research fields:<br>
+* Aprroximate query processing
+* Online aggregation
+* Nearest-neighbor search
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:ni@db.is.i.nagoya-u.ac.jp)  / [LinkedIn](https://www.linkedin.com/in/tianjia-ni-2131141a0/) / [GitHub](https://github.com/aalex12321/)
 
-### Markdown
+## 💬 Languages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Chinese**: Native <br>
+**Japanese**: N1 
+<br><br>
 
-```markdown
-Syntax highlighted code block
+## 👩🏼‍🎓 Education
 
-# Header 1
-## Header 2
-### Header 3
+**Master of Informatics** in Department of Intelligent Systems<br>
+[Nagoya University](https://en.nagoya-u.ac.jp/) - Nagoya, Aichi, Japan _(2019 - 2021)_
 
-- Bulleted
-- List
+**Data Science Program** for Data Analysis<br>
+[North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aalex12321/alexni-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 📌 Selected Publications
+**2022**<br>
+1. Approximate Query Processing with Error Guarantees. <br>
+* Tianjia Ni, Kento Sugiura, Yoshiharu Ishikawa, Kejing Lu. <br>
+* Big-data-analytics in Astronomy Science and Engineering, LNCS volume 13167，2022．<br>
