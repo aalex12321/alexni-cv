@@ -57,7 +57,7 @@ My research interests focus on data management and data science. In detail, I ex
 <br><br><br>
 
 ## Language
-**Chinese**: Native <br>        
+**Chinese**: Native <br>
 **English**: 2nd language <br>
 **Japanese**: N1 <br>
 <br><br>
