@@ -2,7 +2,7 @@
 
 Phd student in Nagoya University <br>
 My research interests focus on data management and data science. In detail, I explore the following research fields:<br>
-* Aprroximate query processing
+* Approximate query processing
 * Online aggregation
 * Nearest-neighbor search
 
@@ -60,6 +60,5 @@ My research interests focus on data management and data science. In detail, I ex
 
 ## Language
 **Chinese**: Native <br>
-**English**: 2nd language <br>
 **Japanese**: N1 <br>
 <br><br>
