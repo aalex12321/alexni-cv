@@ -26,6 +26,11 @@ My research interests focus on data management and data science. In detail, I ex
 <br><br><br>
 
 ## Conference
+**2022**<br>
+1. シノプシスの最適化に基づく近似問合せ処理の高速化. <br>
+* 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
+* 第14回データ工学と情報マネジメントに関するフォーラム (DEIM2022) , K31-4, 2022.
+
 **2021**<br>
 1. シノプシスに基づく近似問合せ処理における誤差保証の検討. <br>
 * 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
