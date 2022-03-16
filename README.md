@@ -1,6 +1,6 @@
 # Tianjia Ni 
 
-Phd student in Nagoya University <br>
+Ph.D. student in Nagoya University <br>
 My research interests focus on data management and data science. In detail, I explore the following research fields:<br>
 * Approximate query processing
 * Online aggregation
