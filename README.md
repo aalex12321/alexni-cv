@@ -64,7 +64,7 @@ My research interests focus on data management and data science. In detail, I ex
 <br><br><br>
 
 ## Scholarship
-**VLDB2020** Student Volunteer
+**(公財)村田海外留学奨学金2021年度外国人留学生**  <br>
 <br><br><br>
 
 ## Language
