@@ -63,6 +63,10 @@ My research interests focus on data management and data science. In detail, I ex
 **VLDB2020** Student Volunteer
 <br><br><br>
 
+## Scholarship
+**VLDB2020** Student Volunteer
+<br><br><br>
+
 ## Language
 **Chinese**: Native <br>
 **Japanese**: N1 <br>
