@@ -9,15 +9,6 @@ My research interests focus on data management and data science. In detail, I ex
 [Email](mailto:ni@db.is.i.nagoya-u.ac.jp)  / [LinkedIn](https://www.linkedin.com/in/tianjia-ni-2131141a0/) / [GitHub](https://github.com/aalex12321/)
 <br><br><br>
 
-## Education
-
-**Master of Informatics** in Department of Intelligent Systems<br>
-[Nagoya University](https://en.nagoya-u.ac.jp/) - Nagoya, Aichi, Japan _(2019 - 2021)_
-
-**Data Science Program** for Data Analysis<br>
-[North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
-<br><br><br>
-
 ## Publication
 **2022**<br>
 1. Approximate Query Processing with Error Guarantees. <br>
@@ -59,16 +50,28 @@ My research interests focus on data management and data science. In detail, I ex
 * 第19回情報科学技術フォーラム (FIT 2020) , 2C-2, 2020.
 <br><br><br>
 
+## Experience
+- 2022/4 ~ present   Nagoya University, School of Information Science, Research Assistant
+- 2021/4 ~ 2022/3   Nagoya University, School of Information Science, Research Assistant
+- 2020/10 ~ 2021/3   Nagoya University, School of Information Science, Teaching Assistant
+
+## Education
+**Master of Informatics** in Department of Intelligent Systems<br>
+[Nagoya University](https://en.nagoya-u.ac.jp/) - Nagoya, Aichi, Japan _(2019 - 2021)_
+
+**Data Science Program** for Data Analysis<br>
+[North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
+<br><br><br>
+
 ## Service
 **VLDB2020** Student Volunteer
 <br><br><br>
 
+
+
 ## Scholarship
 (公財)村田海外留学奨学金2021年度外国人留学生奨学金  <br>
 NU Fusion Frontier Fellowship 2021  <br>
+NU Fusion Frontier Fellowship 2022  <br>
 <br><br><br>
 
-## Language
-**Chinese**: Native <br>
-**Japanese**: N1 <br>
-<br><br>
