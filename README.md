@@ -54,6 +54,7 @@ My research interests focus on data management and data science. In detail, I ex
 - 2022/4 ~ present   Nagoya University, School of Information Science, Research Assistant
 - 2021/4 ~ 2022/3   Nagoya University, School of Information Science, Research Assistant
 - 2020/10 ~ 2021/3   Nagoya University, School of Information Science, Teaching Assistant
+<br><br><br>
 
 ## Education
 **Master of Informatics** in Department of Intelligent Systems<br>
