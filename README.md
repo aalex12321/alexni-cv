@@ -7,66 +7,42 @@ My research interests focus on data management and data science. In detail, I ex
 * Nearest-neighbor search
 
 [Email](mailto:ni@db.is.i.nagoya-u.ac.jp)  / [LinkedIn](https://www.linkedin.com/in/tianjia-ni-2131141a0/) / [GitHub](https://github.com/aalex12321/)
-<br><br><br>
+<br><br>
 
 ## Publication
-**2022**<br>
-1. Approximate Query Processing with Error Guarantees. <br>
-* Tianjia Ni, Kento Sugiura, Yoshiharu Ishikawa, Kejing Lu. 
-* Big-data-analytics in Astronomy Science and Engineering, LNCS volume 13167，2022．
-<br><br><br>
+- [BDA2021] **T.Ni**, K.Sugiura, Y.Ishikawa, K.Lu,  "Approximate Query Processing with Error Guarantees", Big-data-analytics in Astronomy Science and Engineering, LNCS volume 13167, 2022.
+<br><br>
 
 ## Conference
-**2022**<br>
-1. シノプシスの最適化に基づく近似問合せ処理の高速化. <br>
-* 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
-* 第14回データ工学と情報マネジメントに関するフォーラム (DEIM2022) , K31-4, 2022.
-
-**2021**<br>
-1. シノプシスに基づく近似問合せ処理における誤差保証の検討. <br>
-* 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
-* 第174回データベースシステム研究発表会 (DBS 2021)，1-(2)，2021．
-* 学生奨励賞
-
-2. 誤差の保証がある近似的集約計算手法. <br>
-* 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
-* 東海関西データベースワークショップ (DBWS 2021) , 2-10, 2021.
-
-3. 誤差の保証がある近似的問合せ処理に関する研究. <br>
-* 倪 天嘉，杉浦 健人，石川 佳治，陸 可鏡．
-* 第20回情報科学技術フォーラム (FIT 2021) , 4d-2, 2021.
-
-4. 誤差を保証する近似的問合せ処理. <br>
-* 倪 天嘉，杉浦 健人，石川 佳治．
-* 第13回データ工学と情報マネジメントに関するフォーラム (DEIM2021) , B11-2, 2021. 
-
-**2020**<br>
-1. 近似的問合せを用いた効率的なデータベース処理. <br>
-* 倪 天嘉，石川 佳治，杉浦 健人. 
-* 東海関西データベースワークショップ (DBWS 2020) , 6-2, 2020．
-
-2. 機械学習を用いた近似的問合せ処理. <br>
-* 倪 天嘉，石川 佳治，杉浦 健人. 
-* 第19回情報科学技術フォーラム (FIT 2020) , 2C-2, 2020.
-<br><br><br>
+- [DEIM2022] **倪 天嘉**，杉浦 健人，石川 佳治，陸 可鏡，「シノプシスの最適化に基づく近似問合せ処理の高速化」，第14回データ工学と情報マネジメントに関するフォーラム，K31-4，2022．
+- [DBS2021] **倪 天嘉**，杉浦 健人，石川 佳治，陸 可鏡，「シノプシスに基づく近似問合せ処理における誤差保証の検討」，第174回データベースシステム研究発表会，1-(2)，2021．**学生奨励賞**
+- [DBWS2021] **倪 天嘉**，杉浦 健人，石川 佳治，陸 可鏡，「誤差の保証がある近似的集約計算手法」， 東海関西データベースワークショップ， 2-10，2021．
+- [FIT2021] **倪 天嘉**，杉浦 健人，石川 佳治，陸 可鏡，「誤差の保証がある近似的問合せ処理に関する研究」，第20回情報科学技術フォーラム， 4d-2，2021．
+- [DEIM2021] **倪 天嘉**，杉浦 健人，石川 佳治，「誤差を保証する近似的問合せ処理」，第13回データ工学と情報マネジメントに関するフォーラム，B11-2，2021．
+- [DBWS2020] **倪 天嘉**，石川 佳治，杉浦 健人，「近似的問合せを用いた効率的なデータベース処理」，東海関西データベースワークショップ，6-2，2020．
+- [FIT2020] **倪 天嘉**，石川 佳治，杉浦 健人，「機械学習を用いた近似的問合せ処理」，第19回情報科学技術フォーラム，2C-2，2020．
+<br><br>
 
 ## Experience
-- 2022/4 ~ present   Nagoya University, School of Information Science, Research Assistant
-- 2021/4 ~ 2022/3   Nagoya University, School of Information Science, Research Assistant
-- 2020/10 ~ 2021/3   Nagoya University, School of Information Science, Teaching Assistant
-<br><br><br>
+- 2022/4 ~ present   Nagoya University, School of Informatics, Research Assistant
+- 2021/4 ~ 2022/3   Nagoya University, School of Informatics, Research Assistant
+- 2020/10 ~ 2021/3   Nagoya University, School of Informatics, Teaching Assistant
+<br><br>
 
 ## Education
+**Doctor of Informatics** in Department of Intelligent Systems<br>
+[Nagoya University](https://en.nagoya-u.ac.jp/) - Nagoya, Aichi, Japan _(2021 - present)_
+
 **Master of Informatics** in Department of Intelligent Systems<br>
 [Nagoya University](https://en.nagoya-u.ac.jp/) - Nagoya, Aichi, Japan _(2019 - 2021)_
 
 **Data Science Program** for Data Analysis<br>
 [North Carolina State University](https://www.ncsu.edu/) - North Carolina, USA _(Spring 2020)_
-<br><br><br>
+<br><br>
 
 ## Service
 **VLDB2020** Student Volunteer
-<br><br><br>
+<br><br>
 
 
 
@@ -74,5 +50,4 @@ My research interests focus on data management and data science. In detail, I ex
 (公財)村田海外留学奨学金2021年度外国人留学生奨学金  <br>
 NU Fusion Frontier Fellowship 2021  <br>
 NU Fusion Frontier Fellowship 2022  <br>
-<br><br><br>
-
+<br><br>
