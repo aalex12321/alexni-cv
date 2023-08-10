@@ -53,4 +53,5 @@ My research interests focus on data management and data science. In detail, I ex
 (公財)村田海外留学奨学金2021年度外国人留学生奨学金  <br>
 NU Fusion Frontier Fellowship 2021  <br>
 NU Fusion Frontier Fellowship 2022      **Outstanding Fellow** <br>
+NU Fusion Frontier Fellowship 2023  <br>
 <br><br>
